@@ -24,3 +24,6 @@ style CLI.
 
 Kilo was written by Salvatore Sanfilippo aka antirez and is released
 under the BSD 2 clause license.
+
+---
+尝试使用C++来实现，作为我学习C++的开始。
